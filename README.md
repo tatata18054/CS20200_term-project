@@ -65,7 +65,7 @@ dotnet build
 ## Project Structure
 
 ```
-term-project/
+CS20200_term-project/
 ├── 2048.fsproj         # .NET 10 F# project file
 ├── run.bat             # Windows run script
 ├── run.sh              # Unix run script
