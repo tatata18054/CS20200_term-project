@@ -14,7 +14,7 @@ Merge tiles with the same number to reach the **2048** tile!
   Verify with: `dotnet --version` (should show `10.x.x`)
 
 ### Run
-
+move to directory first
 ```bash
 # Windows (Command Prompt or PowerShell)
 .\run.bat
