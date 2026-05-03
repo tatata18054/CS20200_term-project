@@ -93,3 +93,9 @@ CS20200_term-project/
 - **UI**: Console-based with structured grid rendering using `|` and `_`.
 - **Logic**: Immutable-style grid updates where movement functions return a new grid state.
 - **Score**: Tracks the total value of merged tiles.
+
+
+### LLM Used
+
+I have used LLM to write the all the above README.md file by providing the github link. 
+I gave example project(Tic-Tac-Toe) project to look and write the same style.
