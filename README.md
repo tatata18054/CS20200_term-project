@@ -111,5 +111,5 @@ First LLM made the board with dots, making
 
 . . . .
 
-kind of way, but I didn't liked the way that if there is no number the space bewtween . changes so I asked it to make the baord with fixed sized.
+kind of way, but I didn't liked the way that if there is no number the space bewtween dots changes. So, I asked it to make the baord with fixed sized.
 Then it made the board as now using | and __.
