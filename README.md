@@ -99,3 +99,11 @@ CS20200_term-project/
 
 I have used LLM to write the all the above README.md file by providing the github link. 
 I gave example project(Tic-Tac-Toe) project to look and write the same style.
+Also I used LLM to make the "let render" in Game.fs which makes the gameboard, prints score and other because I couldn't guess a good way to make a board.
+First LLM made the board with dots, making 
+.2 .2 . .
+.4 . . .
+. . . .
+. . . .
+kind of way, but I didn't liked the way that if there is no number the space bewtween . changes so I asked it to make the baord with fixed sized.
+Then it made the board as now using | and __.
